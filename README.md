@@ -92,3 +92,13 @@ The function will return an array of `(String, Int)` tuples that are the players
 orderByScores(highScores)
 # => [("Freyja Ćirić", 12_771_091), ("José Valim", 486_373), ("Dave Thomas", 0)]
 ```
+
+## Documentation
+
+If you need more information on the topic, please refer to the [documentation](./docs/introduction.md). The documentation provides comprehensive details and explanations that can help you understand the subject better.
+
+If you find yourself stuck or unsure about how to proceed, don't hesitate to look at the [hints](./docs/hints.md) provided. The hints are designed to guide you through challenging parts and offer clues that can help you find the right solution.
+
+Remember, it's normal to seek help and use available resources when learning something new.
+
+Good luck!
